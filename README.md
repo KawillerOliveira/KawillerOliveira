@@ -1,6 +1,6 @@
 # Kawiller Oliveira
 
-Olá, eu sou Kawiller Oliveira, sou formado em Tecnologia em Redes de Computadores e estudando de Análise e Desenvolvimento de Sistemas
+Olá, sou Kawiller Oliveira, sou formado em Tecnologia em Redes de Computadores e estudante de Análise e Desenvolvimento de Sistemas
 ##
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kawilleroliveira&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
